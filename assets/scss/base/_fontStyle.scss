@@ -33,13 +33,12 @@ body {
 @font-face {
     font-family: 'Material Symbols Outlined';
     font-style: normal;
-    font-weight: 400;
-    src: url(https://example.com/MaterialIcons-Regular.eot);
-    /* For IE6-8 */
-    src: local('Material Symbols Outlined'),
-        local('MaterialIconsOutlined-Regular'),
-        url(../assets/material-font/MaterialSymbolsOutlined[FILL\,GRAD\,opsz\,wght].woff2) format('woff2'),
-        url(../assets/material-font/MaterialIconsOutlined-Regular.otf) format('otf');
+    src: url(../assets/material-font/MaterialSymbolsOutlined[FILL\,GRAD\,opsz\,wght].woff2) format('woff2');
+    // /* For IE6-8 */
+    // src: local('Material Symbols Outlined'),
+    //     local('MaterialIconsOutlined-Regular'),
+    //     url(../assets/material-font/MaterialSymbolsOutlined[FILL\,GRAD\,opsz\,wght].woff2) format('woff2'),
+    //     url(../assets/material-font/MaterialIconsOutlined-Regular.otf) format('otf');
 }
 
 .material-symbols-outlined {

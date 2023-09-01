@@ -47,7 +47,7 @@
       height: 100px;
     }
 
-    .material-icons-outlined {
+    .material-symbols-outlined {
       font-variation-settings:
         /*是否填滿 0 or 1*/
         'FILL' 0,
@@ -61,7 +61,7 @@
     }
 
     &:nth-child(4) {
-      .material-icons-outlined {
+      .material-symbols-outlined {
         font-variation-settings:
           /*視覺平衡粗細 -25 0 200*/
           'GRAD' 100;
