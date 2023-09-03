@@ -29,23 +29,24 @@ body {
     font-weight: 100;
 }
 
+@import url("https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0");
 
-@font-face {
-    font-family: 'Material Symbols Outlined';
-    font-style: normal;
-    src: url(../assets/material-font/MaterialSymbolsOutlined[FILL\,GRAD\,opsz\,wght].woff2) format('woff2');
-    // /* For IE6-8 */
-    // src: local('Material Symbols Outlined'),
-    //     local('MaterialIconsOutlined-Regular'),
-    //     url(../assets/material-font/MaterialSymbolsOutlined[FILL\,GRAD\,opsz\,wght].woff2) format('woff2'),
-    //     url(../assets/material-font/MaterialIconsOutlined-Regular.otf) format('otf');
-}
+// @font-face {
+//     font-family: 'Material Symbols Outlined';
+//     font-style: normal;
+//     src: url(../assets/material-font/MaterialSymbolsOutlined[FILL\,GRAD\,opsz\,wght].woff2) format('woff2');
+//     // /* For IE6-8 */
+//     // src: local('Material Symbols Outlined'),
+//     //     local('MaterialIconsOutlined-Regular'),
+//     //     url(../assets/material-font/MaterialSymbolsOutlined[FILL\,GRAD\,opsz\,wght].woff2) format('woff2'),
+//     //     url(../assets/material-font/MaterialIconsOutlined-Regular.otf) format('otf');
+// }
 
 .material-symbols-outlined {
     font-family: 'Material Symbols Outlined';
     font-weight: normal;
     font-style: normal;
-    font-size: 24px;
+    // font-size: 24px;
     /* Preferred icon size */
     display: inline-block;
     line-height: 1;
