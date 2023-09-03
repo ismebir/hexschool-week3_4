@@ -1,7 +1,9 @@
+// 注意擺放順序
+
 // base
-@import './base/fontStyle.scss';
 @import './base/reset.scss';
 @import './base/base.scss';
+@import './base/fontStyle.scss';
 
 // utils
 @import './utils/mixins.scss';

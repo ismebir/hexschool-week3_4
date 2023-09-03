@@ -26,9 +26,17 @@
   .span-style {
     width: 48px;
     height: 48px;
+
+    .phone {
+      font-size: 36px;
+    }
+
+    .email {
+      font-size: 40px;
+    }
   }
 
-  .material-icons-outlined {
+  .material-symbols-outlined {
     font-variation-settings:
       /*是否填滿 0 or 1*/
       'FILL' 0,
